@@ -54,6 +54,7 @@ Unless otherwise stated, for each question:
 
 ## __Footnotes__
 __`Resources`__ folder contains the 'establishments' JSON file that was imported in the beginning of the code. 
+
 Codes were referenced from the class activities and I used ChatGPT for assistance when my codes weren't running properly. 
 
 
